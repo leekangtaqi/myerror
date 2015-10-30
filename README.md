@@ -1,5 +1,7 @@
 # myerror
 a lightweight error handler
+## INSTALL
+npm install l-error
 ## API
 ###register(type, code)
 Parameter:</br>
