@@ -1,9 +1,7 @@
 {
   "name": "my-error",
   "version": "0.0.1",
-  "author": "leeqi",
+  "author": "leekangtaqi",
+  "homepage": "https://github.com/leekangtaqi/myerror",
   "description": "a lightweight error handler",
-  "dependencies": {
-    "co": "*"
-  }
 }
